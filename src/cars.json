@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Porsche 991 4S Convertible",
+    "picture": "images/Porsche_991_4S_Convertible.png",
+    "age": 2019,
+    "transmission": "Automatski",
+    "location": "Zagreb"
+  },
+  {
+    "id": 1,
+    "name": "Bentley Continental GTC W12",
+    "picture": "images/bentley-continental-gt-blanche-avtg.jpg",
+    "age": 2017,
+    "transmission": "Automatski",
+    "location": "Rijeka"
+  },
+  {
+    "id": 2,
+    "name": "Mercedes AMG GT Roadster",
+    "picture": "images/Mercedes-AMG-GT-Roadster.jpeg",
+    "age": 2019,
+    "transmission": "Automatski",
+    "location": "Split"
+  },
+  {
+    "id": 3,
+    "name": "Porsche Macan Turbo",
+    "picture": "images/PORSCHE_MACAN_TURBO.jpeg",
+    "age": 2018,
+    "transmission": "Automatski",
+    "location": "Zagreb"
+  },
+  {
+    "id": 4,
+    "name": "Range Rover Velar 4WD D240",
+    "picture": "images/RANGE_ROVER_VELAR_4WD_D240_SE.jpeg",
+    "age": 2018,
+    "transmission": "Automatski",
+    "location": "Pula"
+  },
+  {
+    "id": 5,
+    "name": "R. Rover Evoque Convertible",
+    "picture": "images/Range-Rover-Evoque-Convertible.jpg",
+    "age": 2018,
+    "transmission": "Automatski",
+    "location": "Dubrovnik"
+  },
+  {
+    "id": 6,
+    "name": "Jaguar F-Type",
+    "picture": "images/1498231123_F-Type-rouge.jpg",
+    "age": 2017,
+    "transmission": "Automatski",
+    "location": "Zadar"
+  },
+  {
+    "id": 7,
+    "name": "Lamborghini Huracan LP580",
+    "picture": "images/Lamborghini.jpeg",
+    "age": 2019,
+    "transmission": "Automatski",
+    "location": "Pula"
+  },
+  {
+    "id": 8,
+    "name": "Ferrari California T Rogue",
+    "picture": "images/CALIFORNIA-T-AVTG.jpg",
+    "age": 2017,
+    "transmission": "Automatski",
+    "location": "Osijek"
+  },
+  {
+    "id": 9,
+    "name": "Porsche 991 Targa",
+    "picture": "images/6803E395-E22F-4BAB-BC33.jpeg",
+    "age": 2016,
+    "transmission": "Automatski",
+    "location": "Osijek"
+  },
+  {
+    "id": 10,
+    "name": "Mercedes 220D Convertible",
+    "picture": "images/Hire-Mercedes-E-Class-convertible-Cannes.jpeg",
+    "age": 2018,
+    "transmission": "Automatski",
+    "location": "Zagreb"
+  },
+  {
+    "id": 11,
+    "name": "Mercedes AMG GT",
+    "picture": "images/1501251049_AMG-BLANCHE-AVTG.jpg",
+    "age": 2019,
+    "transmission": "Automatski",
+    "location": "Šibenik"
+  },
+  {
+    "id": 12,
+    "name": "BMW X6 X-Drive M-oprema",
+    "picture": "images/BMW-X6-rental-Cannes-thanks-to-Car4rent-avtg.jpg",
+    "age": 2018,
+    "transmission": "Automatski",
+    "location": "Rovinj"
+  },
+  {
+    "id": 13,
+    "name": "Rolls Royce Drophead",
+    "picture": "images/RollsRoyce.jpeg",
+    "age": 2015,
+    "transmission": "Automatski",
+    "location": "Split"
+  },
+  {
+    "id": 14,
+    "name": "Mercedes G500 4×4",
+    "picture": "images/067885BF-D8C9-4558-AF41-B470859B1C63.jpeg",
+    "age": 2017,
+    "transmission": "Automatski",
+    "location": "Zadar"
+  },
+  {
+    "id": 15,
+    "name": "BMW I8",
+    "picture": "images/1498987373_I8-avt-G-1.jpg",
+    "age": 2018,
+    "transmission": "Automatski",
+    "location": "Zagreb"
+  }
+]

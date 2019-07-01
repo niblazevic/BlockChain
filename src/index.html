@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Stranica za iznajmljivanje luksuznih automobila</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-8 col-sm-push-2">
+          <h1 class="text-center">Stranica za iznajmljivanje luksuznih automobila</h1>
+          <hr/>
+          <br/>
+        </div>
+      </div>
+
+      <div id="carRows" class="row">
+        
+      </div>
+    </div>
+
+    <div id="carTemplate" style="display: none;">
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="panel panel-default panel-car">
+          <div class="panel-heading">
+            <h3 class="panel-title">Porsche 991 4S Convertible</h3>
+          </div>
+          <div class="panel-body">
+            <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" style="width: 100%;" src="https://car4rent.fr/wp-content/uploads/Car4rent-Luxury-Car-Hire-Cannes-Porsche-Carrera-4s-Convertible-450x450.jpg" data-holder-rendered="true">
+            <br/><br/>
+            <strong>Mjenjač</strong>: <span class="car-transmission">Automatski</span><br/>
+            <strong>Godište</strong>: <span class="car-age">2019</span><br/>
+            <strong>Lokacija</strong>: <span class="car-location">Zagreb</span><br/><br/>
+            <button class="btn btn-default btn-rent" type="button" data-id="0">Iznajmi</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/web3.min.js"></script>
+    <script src="js/truffle-contract.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
